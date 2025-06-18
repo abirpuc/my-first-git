@@ -1,0 +1,21 @@
+body{
+    background-color: gray;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 5000px;
+}
+
+.box{
+    background-image: url(./kwork_ytSEO2.png);
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:100% auto;
+}
+.box2{
+    margin-top: 40px;
+    background-image: url(./kwork_ytSEO2.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
