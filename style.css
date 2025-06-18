@@ -19,3 +19,12 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
+
+button{
+    color: white;
+    background: blue;
+    padding: 20px;
+    border-radius: 25px;
+    border: none;
+    box-sizing: border-box;
+}
